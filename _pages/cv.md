@@ -11,8 +11,8 @@ redirect_from:
 
 The CV in pdf
 ======
-* [CV in english](https://xiaoli-cn.github.io/files/CVenglish)
-* [CV in english](https://xiaoli-cn.github.io/files/CVenglish)
+* [CV in english](https://xiaoli-cn.github.io/files/CVenglish.pdf)
+* [CV in english](https://xiaoli-cn.github.io/files/CVenglish.pdf)
 
 Education
 ======
