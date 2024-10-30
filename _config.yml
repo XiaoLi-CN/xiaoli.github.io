@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Xiao LI 李潇"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Xiao LI"
+description              : &description "PhD student in CMLS"
 url                      : https://xiaoli-cn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiaoLi-CN/xiaoli-cn.github.io"
@@ -222,10 +222,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _reserche
+  # _research
   - scope:
       path: ""
-      type: reserche
+      type: research
     values:
       layout: single
       author_profile: true
