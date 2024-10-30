@@ -5,11 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Reserche"
-    url: /publications/
+  - title: "关于我"
+    url: /chinesepage/   
+
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/   
+    url: /teaching/  
 
   - title: "CV"
     url: /cv/
