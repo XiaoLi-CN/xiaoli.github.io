@@ -5,8 +5,9 @@ permalink: /others/
 author_profile: true
 redirect_from: 
   - /others/
-  - /others.html
 ---
+{% include base_path %}
+
 
 Some photos 一些回忆
 ======
