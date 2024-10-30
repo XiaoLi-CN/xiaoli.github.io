@@ -12,4 +12,20 @@ redirect_from:
 Some photos 一些回忆
 ======
 
-<img src="images/image-home.jpg" alt="alternatetext">
+
+In USTC
+====
+
+<img src="https://xiaoli-cn.github.io/images/atUSTC.jpg" alt="">
+
+
+In Harbin 2023
+====
+
+<img src="https://xiaoli-cn.github.io/images/inHaarbin.jpg" alt="">
+
+In Xinjiang 2024
+====
+
+<img src="https://xiaoli-cn.github.io/images/Xinjiang2024.jpeg" alt="">
+
