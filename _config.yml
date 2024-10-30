@@ -21,7 +21,7 @@ repository               : "XiaoLi-CN/xiaoli-cn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image-home.jpg"
   name             : "李潇 Xiao LI"
   pronouns         : "He/him"  
   bio              : "PhD student since 2024"
