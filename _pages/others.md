@@ -11,4 +11,4 @@ author_profile: true
 Some photos 一些回忆
 ======
 
-[image](https://xiaoli-cn.github.io/images/image-home.jpg)
+<img src="images/image-home.jpg" alt="alternatetext">
