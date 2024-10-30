@@ -11,4 +11,4 @@ author_profile: true
 Some photos 一些回忆
 ======
 
-(https://xiaoli-cn.github.io/images/image-home.jpg)
+[image](https://xiaoli-cn.github.io/images/image-home.jpg)
