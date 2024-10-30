@@ -12,7 +12,15 @@ I am a PhD student in the Laurent Schwartz center for Mathematics, École Polyte
 
 
 
-Contact
+Contact information
 ======
 
+Centre de Mathématiques Laurent Schwartz
 
+École Polytechnique
+
+91128 Palaiseau Cedex France
+
+Email : xiao.li.cmls[chez]polytechnique.edu
+
+Wechat : XiaoCmls2024

@@ -22,7 +22,7 @@ In USTC
 In Harbin 2023
 ====
 
-<img src="https://xiaoli-cn.github.io/images/inHaarbin.jpg" alt="">
+<img src="https://xiaoli-cn.github.io/images/inHaarbin.JPG" alt="">
 
 In Xinjiang 2024
 ====
