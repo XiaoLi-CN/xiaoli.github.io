@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+The CV in pdf
+======
+
+A CV in english [link](http://https://xiaoli-cn.github.io/files/CVenglish "CV_eng").
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
